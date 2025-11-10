@@ -1,0 +1,1 @@
+In this project I worked with the Oklahoma City Thunder (NBA Basketball Team) to statistically analyze the team's season schedule for the past decade. The goal of the project was to analyze how having a high density of games (many games within close proximity) has affected the team. My ultimate goal was to give tips on load management for players.
